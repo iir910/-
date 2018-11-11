@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           百度贴吧重定向
+// @name           百度贴吧-重定向
 // @version        1.0
 // @author        
 // @description    重定向各类同素异形体到更科学的主域名tieba.baidu.com
